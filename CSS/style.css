@@ -1,0 +1,46 @@
+#home {
+    margin-top: 2em;
+    min-height: 75vh;
+    width: 100%;
+    background-image: url('./../img/heroe1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    color: aliceblue;
+
+    position: relative;
+}
+
+/* FOOTER */
+footer {
+    background-color: #FC7300 ;
+    color: #1F8A70;
+    padding: 0.50em;
+    font-size: 1.5em;
+
+    height: 200px;
+    bottom: 0px;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+}
+
+#social ul li {
+    display: block;
+    padding: 7px;
+}
+
+.container {
+    margin-right: 40px;
+    top: 0%;
+    height: 2em;
+    width: 500px;
+}
+
+.containe {
+    top: 0%;
+    height: 2em;
+    width: 450px;
+    float: right;
+}
