@@ -54,6 +54,10 @@ h1 {
 }
 /* SECTIONES*/
 
+h2 {
+  font-size: 50px;
+}
+
 p {
   font-size: 30px;
 }
@@ -67,6 +71,18 @@ p {
   display: inline;
   width: 400px;
   position: absolute;
+  margin-left: 400px;
+}
+
+#di3 {
+  margin-right: 60%;
+  display: inline;
+}
+
+#di4 {
+  position: absolute;
+  left: 50%;
+  top: 100%;
 }
 
 #parrafo2 {
